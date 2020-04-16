@@ -6,6 +6,7 @@
 
 h1 {
     background-color: white;
+    padding-top: 5%;
 }
 
 #p01 {
@@ -13,5 +14,9 @@ h1 {
 }
 
 #p02 {
+    background-color: white;
+}
+
+a {
     background-color: white;
 }
